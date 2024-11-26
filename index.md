@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025)
+title: Home
+fulltitle: 19th International Conference on Neurosymbolic Learning and Reasoning
 layout: home
 ---
 
