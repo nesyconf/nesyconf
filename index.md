@@ -3,13 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: Home
+title: 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025)
 layout: home
 ---
 
-![](assets/img/banner.jpg)
 
-International Conference on Neurosymbolic Learning (NeSy 2025), 8-10 September 2025, Santa Cruz, CA, USA. This is a stub. 
+The NeSy series is the longest standing gathering for the presentation and discussion of cutting-edge research in neurosymbolic AI. NeSy is the annual meeting of the [Neurosymbolic Learning and Reasoning Association](https://nesyconf.org). 
+
+![](assets/img/banner.jpg)
 
 	
 The [NeSy event series](https://nesyconf.org) celebrates neurosymbolic AI since 2005 when the first NeSy workshop took place in Edinburgh, Scotland, as part of IJCAI2005. NeSy is about the integration of neural and symbolic AI, combining statistical machine learning based on neural networks with knowledge representation and reasoning from symbolic AI. 
