@@ -7,16 +7,13 @@ title: Home
 layout: home
 ---
 
-Hi there! Here's the lazy grad student's template for workshop webpages. I put this together to help automate mundane tasks with conventional workshop webpages - curating lists of speakers and/or organizers, schedules, and submitted/accepted papers. Here's a completely unrelated picture adapted from "Machine Learning & Artificial Intelligence" by `mikemacmarketing`; licensed under CC BY 2.0:
-
 ![](assets/img/banner.jpg)
 
-The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented:
-1. **Speakers**: Curate a [speaker list like this one](speakers) from a set of markdown files, one per speaker. Crops and displays images if available. Adds a short bio. See files in the `_speakers` directory for examples.
-2. **Organizers**: Curate an organizer list from a set of markdown files, one per organizer. See files in the `_organizers` directory for examples.
-3. **Schedule**: Curate a [schedule like this](schedule) from a set of markdown files, one per event (talk, panel, break, etc.). See files in the `_schedule` directory for examples. Schedule items are sorted by a `sequence_id` attribute.
-4. **Papers**: Curate a [list of papers like this](papers) from a bunch of markdown files, one per paper. See files in the `_papers` directory for examples. Papers are sorted by a `sequence_id` attribute if specifed (else they are listed alphabetically).
+International Conference on Neurosymbolic Learning (NeSy 2025), 8-10 September 2025, Santa Cruz, CA, USA. This is a stub. 
 
-> **NOTE:** The best way to use these is to turn feature on or off by editing the `collections` attribute in `_config.yml`.
+	
+The [NeSy event series](https://nesyconf.org) celebrates neurosymbolic AI since 2005 when the first NeSy workshop took place in Edinburgh, Scotland, as part of IJCAI2005. NeSy is about the integration of neural and symbolic AI, combining statistical machine learning based on neural networks with knowledge representation and reasoning from symbolic AI. 
 
-If you experience issues or have cool features to add, feel free to [fork this template]().
+Neural networks and statistical Machine Learning have achieved industrial relevance in a number of areas from healthcare to finance and business, obtaining state-of-the-art performance at language modelling, speech and image recognition, sensor data and graph analytics. Symbolic AI is challenged by such unstructured large data, but offers sound and well-understood formal reasoning and explanation via knowledge representation that can be inspected to interpret how decisions follow from data. Neural and symbolic AI approaches also contrast in the problems that they excel at: deep learning excels at scene recognition, but fails at planning and rich deductive reasoning.
+
+Neurosymbolic AI aims to build rich computational AI models, systems and applications by combining neural and symbolic learning and reasoning. It hopes to create synergies among the strengths of neural and symbolic AI while overcoming their complementary weaknesses. The NeSy workshop series is the premier venue for the presentation and discussion of the theory and practice of neurosymbolic computing. Since NeSy 2005, the workshop provided an atmosphere for the free exchange of ideas, bringing together the community of scientists and practitioners that straddle the line between connectionism and symbolic AI.
