@@ -4,4 +4,4 @@ title: Contact Us
 permalink: /contactus/
 ---
 
-Here's how you can contact us ...
+For any questions, please contact us at [organisers@nesyconf.org](mailto:organisers@nesyconf.org).
