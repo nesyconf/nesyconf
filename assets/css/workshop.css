@@ -92,3 +92,11 @@ span.award-other img {
   padding-top: 0;
   padding-bottom: 8px;
 }
+
+h1, h2, h3, h4, h5, h6 {
+    color: rgb(194, 27, 27);
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
