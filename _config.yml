@@ -29,6 +29,7 @@ github_username: nesyconf
 
 # Build settings
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
 
 # If you want to link only specific pages in your header, uncomment
