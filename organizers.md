@@ -5,19 +5,19 @@ permalink: /organizers/
 ---
 
 ## NeSy 2025 General Chair
-- Leilani H. Gilpin, UC Santa Cruz, CA, USA
+- [Leilani H. Gilpin](https://people.ucsc.edu/~lgilpin/), UC Santa Cruz, CA, USA
 
 ## NeSy 2025 Programme Chairs
-- Eleonora Giunchiglia, Imperial College London, UK 
-- Pascal Hitzler, Kansas State University, USA
-- Emile van Krieken, University of Edinburgh, Scotland 
+- [Eleonora Giunchiglia](https://profiles.imperial.ac.uk/e.giunchiglia), Imperial College London, UK 
+- [Pascal Hitzler](https://www.cs.ksu.edu/about/people/faculty/hitzler/), Kansas State University, USA
+- [Emile van Krieken](https://www.emilevankrieken.com/), University of Edinburgh, Scotland 
 
 ## NeSy Executive Board
-- Artur d'Avila Garcez, City St George's, University of London, UK
-- Tarek R. Besold, Sony AI, Barcelona, Spain
-- Ernesto Jimenez-Ruiz, City St George's, University of London, UK 
-- Leilani H. Gilpin, UC Santa Cruz, CA, USA
-- Pascal Hitzler, Kansas State University, USA
+- [Artur d'Avila Garcez](https://www.staff.city.ac.uk/~aag/), City St George's, University of London, UK
+- [Tarek R. Besold](https://ai.sony/people/Tarek-Besold/), Sony AI, Barcelona, Spain
+- [Ernesto Jimenez-Ruiz](https://www.city.ac.uk/about/people/academics/ernesto-jimenez-ruiz), City St George's, University of London, UK 
+- [Leilani H. Gilpin](https://people.ucsc.edu/~lgilpin/), UC Santa Cruz, CA, USA
+- [Pascal Hitzler](https://www.cs.ksu.edu/about/people/faculty/hitzler/), Kansas State University, USA
 
 ## NeSy Advisory Board
 - Marco Gori, University of Siena, Italy
