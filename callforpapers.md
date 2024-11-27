@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for papers
-permalink: /callforpapers/
+permalink: /call-for-papers/
 ---
 
 We invite you to submit to the 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025), held in Santa Cruz (CA, USA) from September 8-10, 2025.
