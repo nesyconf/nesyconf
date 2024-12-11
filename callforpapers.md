@@ -14,9 +14,9 @@ NeSy is the premier annual conference of the research community working on neuro
 - Author notification: April 18, 2025
 - Camera-ready papers: May 19, 2025
 
-Late short paper and extended abstract submission: June 6, 2025
-Author notifications: July 3, 2025
-Camera-ready papers: July 18, 2025
+- Late short paper and extended abstract submission: June 6, 2025
+- Author notifications: July 3, 2025
+- Camera-ready papers: July 18, 2025
 
 All deadlines are 11:59 PM, AoE.
 
@@ -42,7 +42,7 @@ Neurosymbolic cognitive modelling;
 - Applications of Neurosymbolic AI, including in education, law, simulation, finance, healthcare, robotics, software engineering, systems engineering, bioinformatics, and visual intelligence;
 
 ## Submission guidelines 
-This year, papers must be submitted before the deadline on OpenReview: https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference. 
+This year, papers must be submitted before the deadline on [our OpenReview page](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference). 
 Full paper submissions should not exceed 10 pages, excluding references and supplementary materials. Please use the Latex template available at this link.
 
 Short paper and late short paper submissions should be original pieces of work, or position papers. They should not have been published elsewhere and should not exceed 5 pages, excluding references and supplementary materials. Please use the same Latex template as full paper submissions. 
@@ -53,9 +53,9 @@ Extended abstracts should provide an overview of relevant papers in neurosymboli
 
 The conference will be held in-person, and authors of accepted papers are required to attend the conference physically to present their work. Please note that short paper and extended abstract notification is rather late to allow for late-breaking results — authors from outside the US need to make sure that they have enough time to obtain US visas. 
 
-Reviewing will be double-blind. After notification, reviews of accepted papers will be posted online on OpenReview along with the originally submitted version of the paper. Reviewers remain anonymous unless they opt in to them being named. 
+Reviewing will be double-blind. After notification, reviews of accepted papers will be posted online on [OpenReview](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference) along with the originally submitted version of the paper. Reviewers remain anonymous unless they opt in to them being named. 
 
-Accepted paper authors will be invited to submit extended versions to a special issue of the Neurosymbolic Artificial Intelligence journal.
+Accepted paper authors will be invited to submit extended versions to a special issue of the [Neurosymbolic Artificial Intelligence journal](https://neurosymbolic-ai-journal.com/content/about-neurosymbolic-artificial-intelligence).
 
 All questions about submissions should be addressed to [organisers@nesyconf.org](mailto:organisers@nesyconf.org). 
 
