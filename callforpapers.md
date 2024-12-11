@@ -18,7 +18,7 @@ NeSy is the premier annual conference of the research community working on neuro
 - Author notifications: July 3, 2025
 - Camera-ready papers: July 18, 2025
 
-All deadlines are 11:59 PM, AoE.
+All deadlines are 11:59 PM, AoE. Please use [OpenReview](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference) for submissions.
 
 ## Subject Areas 
 The NeSy conference invites theoretical, experimental and applied submissions on the integration of neural networks and symbolic AI.
