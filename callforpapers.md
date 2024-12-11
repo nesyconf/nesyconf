@@ -33,7 +33,7 @@ In addition, we invite papers on all topics related to Neurosymbolic AI, includi
 - Addressing knowledge representation and reasoning tasks using neural networks;
 - Code generation and knowledge engineering with neural networks, including with LLMs;
 - Studying and improving LLM reasoning with Neurosymbolic methods;
-Neurosymbolic cognitive modelling;
+- Neurosymbolic cognitive modelling;
 - Languages for Neurosymbolic AI, including differentiable and probabilistic programming languages;
 - Embedding methods for structured information;
 - Circuits and knowledge compilation for Neurosymbolic AI;
