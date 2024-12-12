@@ -14,6 +14,7 @@ layout: home
 This year, NeSy 2025 will be held in **Santa Cruz, California, from September 8th to 10th.** We accept full papers, short papers, and extended abstracts of recently published papers on any topic related to neurosymbolic AI. Please see the [call for papers](/call-for-papers/) for more details.
 
 The NeSy series is the longest standing gathering for the presentation and discussion of cutting-edge research in [neurosymbolic AI](http://www.neural-symbolic.org/). NeSy is the annual meeting of the [Neurosymbolic Learning and Reasoning Association](https://nesyconf.org).
+
 ### About the NeSy Conference 
 NeSy is about the integration of neural and symbolic AI, combining statistical machine learning based on neural networks with knowledge representation and reasoning from symbolic AI. 
 Neural networks and statistical Machine Learning have achieved industrial relevance in a number of areas from healthcare to finance and business, obtaining state-of-the-art performance at language modelling, speech and image recognition, sensor data and graph analytics. Symbolic AI is challenged by such unstructured large data, but offers sound and well-understood formal reasoning and explanation via knowledge representation that can be inspected to interpret how decisions follow from data. Neural and symbolic AI approaches also contrast in the problems that they excel at: deep learning excels at scene recognition, but fails at planning and rich deductive reasoning.
