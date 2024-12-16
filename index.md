@@ -4,7 +4,7 @@
 
 permalink: /
 title: NeSy 2025
-fulltitle: Neurosymbolic Learning and Reasoning Conference 2025
+fulltitle: 19th International Conference on Neurosymbolic Learning and Reasoning 2025
 layout: home
 ---
 
