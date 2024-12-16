@@ -3,15 +3,15 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: Home
-fulltitle: 
+title: NeSy 2025
+fulltitle: Neurosymbolic Learning and Reasoning Conference 2025
 layout: home
 ---
 
 
 ![](assets/img/banner_nesy.png)
 
-This year, NeSy 2025 will be held in **Santa Cruz, California, from September 8th to 10th.** We accept full papers, short papers, and extended abstracts of recently published papers on any topic related to neurosymbolic AI. Please see the [call for papers](/call-for-papers/) for more details.
+This year, **NeSy 2025** will be held in **Santa Cruz, California, from September 8th to 10th.** We accept full papers, short papers, and extended abstracts of recently published papers on any topic related to neurosymbolic AI. Please see the [call for papers](/call-for-papers/) for more details.
 
 The NeSy series is the longest standing gathering for the presentation and discussion of cutting-edge research in [neurosymbolic AI](http://www.neural-symbolic.org/). NeSy is the annual meeting of the [Neurosymbolic Learning and Reasoning Association](https://nesyconf.org).
 
