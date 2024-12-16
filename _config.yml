@@ -21,9 +21,9 @@
 title: NeSy 2025 Conference
 email: organisers@nesyconf.org
 description: >- # this means to ignore newlines until "baseurl:"
-  19th International Conference on Neurosymbolic Learning (NeSy 2025, 8-10 September 2025, Santa Cruz, CA, USA)
+  Neurosymbolic Learning and Reasoning Association
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://2025.nesyconf.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nesyconf.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nesyconf
 github_username: nesyconf
 author: "Neurosymbolic Learning and Reasoning Association"
@@ -39,7 +39,7 @@ header_pages:
 - index.md
 # - speakers.md
 - organizers.md
-- callforpapers.md
+# - callforpapers.md
 # - schedule.md
 # - papers.md
 # - contactus.md
