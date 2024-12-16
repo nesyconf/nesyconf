@@ -35,4 +35,4 @@ Neurosymbolic AI aims to build rich computational AI models, systems and applica
 - [NeSy 2019](https://sites.google.com/view/nesy2019/home)
 
 ### Community 
-To join the community slack, please send an email to Pascal Hitzler at hitzler@ksu.edu and you will receive an invitation. We also have a low-traffic mailing list for announcements and discussions related to neural-symbolic integration. Please visit https://www.jiscmail.ac.uk/cgi-bin/wa.exe?A0=NESY to add yourself to this list.
+To join the community slack, please send an email to Pascal Hitzler at [hitzler@ksu.edu](mailto:hitzler@ksu.edu) and you will receive an invitation. We also have a low-traffic mailing list for announcements and discussions related to neural-symbolic integration. Please visit [https://www.jiscmail.ac.uk/cgi-bin/wa.exe?A0=NESY](https://www.jiscmail.ac.uk/cgi-bin/wa.exe?A0=NESY) to add yourself to this list.
