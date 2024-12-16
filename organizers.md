@@ -39,5 +39,4 @@ Knowledge Graphs, Ontologies and Neurosymbolic AI Special Track Chairs:
 - Luc de Raedt, KU Leuven, Belgium 
 - Francesca Rossi, IBM Research, New York, USA
 - Danny Silver, Acadia University, Canada
-- Josh Tenenbaum, MIT, USA
 - Leslie Valiant, University of Harvard, USA
