@@ -9,7 +9,7 @@ layout: home
 ---
 
 
-![](assets/img/banner_nesy.png)
+![NeSy 2025 banner announcement](assets/img/banner_nesy.jpg)
 
 This year, [**NeSy 2025**](https://2025.nesyconf.org) will be held in **Santa Cruz, California, from September 8th to 10th.** Please see the [call for papers](https://2025.nesyconf.org/call-for-papers/) for more details.
 
