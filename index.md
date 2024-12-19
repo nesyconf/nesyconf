@@ -13,7 +13,7 @@ layout: home
 
 This year, [**NeSy 2025**](https://2025.nesyconf.org) will be held in **Santa Cruz, California, from September 8th to 10th.** Please see the [call for papers](https://2025.nesyconf.org/call-for-papers/) for more details.
 
-The NeSy series is the longest standing gathering for the presentation and discussion of cutting-edge research in [neurosymbolic AI](http://www.neural-symbolic.org/). NeSy is the annual meeting of the [Neurosymbolic Learning and Reasoning Association](https://nesyconf.org).
+The NeSy series is the longest standing gathering for the presentation and discussion of cutting-edge research in [neurosymbolic AI](https://people.cs.ksu.edu/~hitzler/nesy/). NeSy is the annual meeting of the [Neurosymbolic Learning and Reasoning Association](https://nesyconf.org).
 
 ### About the Association 
 NeSy is about the integration of neural and symbolic AI, combining statistical machine learning based on neural networks with knowledge representation and reasoning from symbolic AI. 
